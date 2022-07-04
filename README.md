@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sorosh1994
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👀 I’m interested in security-redteam
+- 🌱 I’m currently learning secuirty
 - 📫 How to reach me send mail:knti360@gmail.com
 
 <!---
